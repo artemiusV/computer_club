@@ -7,9 +7,7 @@
     "skipLibCheck": true,
 
     /* Bundler mode */
-  // это веременная ошибка, чуть позже она пропадет
-    "moduleResolution": "bundler",
-    "allowImportingTsExtensions": true,
+    "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
